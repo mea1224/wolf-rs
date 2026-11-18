@@ -1,0 +1,13 @@
+[package]
+name = "wolf-render"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+wgpu.workspace = true
+bytemuck.workspace = true
+
+[dev-dependencies]
+naga.workspace = true
+

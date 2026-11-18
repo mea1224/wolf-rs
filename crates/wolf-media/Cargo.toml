@@ -1,0 +1,11 @@
+[package]
+name = "wolf-media"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+png = "=0.18.1"
+lewton = "=0.10.2"
+zune-jpeg = "=0.5.15"
+zune-core = "=0.5.3"
